@@ -10,7 +10,8 @@
 
 - 📫 How to reach me: **aleknovic70@gmail.com**
 
-- ⚡ What I like to do: **I realy like to read, play guitar ...and coding of course**
+- ⚡Portfolio: https://thomas-aleknovic.vercel.app/
+
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
