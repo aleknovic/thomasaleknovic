@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **aleknovic70@gmail.com**
 
-- ⚡Portfolio: https://thomas-aleknovic.vercel.app/
+- ⚡Portfolio: https://thomascode.com.br/
 
 
 <h3 align="center">Connect with me:</h3>
