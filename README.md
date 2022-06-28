@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on some personal projects.
 
-- 🌱 I’m currently developing my skills with **ReactJS**
+- 🌱 I’m currently developing my backend skills with NodeJS.
 
 - 📫 How to reach me: **aleknovic70@gmail.com**
 
