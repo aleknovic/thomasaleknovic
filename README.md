@@ -37,7 +37,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" />
   </a
-    <a href="https://nextjs.org/" target="_blank"> 
+    <a href="https://nextjs.org/" target="_blank"  rel="noreferrer"> 
     <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/nextjs.dark.svg" alt="nextjs" width="40" height="40"/> 
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
