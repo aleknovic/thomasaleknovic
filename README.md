@@ -67,7 +67,7 @@
   
  
   <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=thomasaleknovic&theme=react&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasaleknovic&show_icons=true&locale=en" alt="thomasaleknovic" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaleknovic&theme=react&layout=compact" />
 </p>
   
