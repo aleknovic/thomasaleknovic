@@ -4,11 +4,11 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-- 🔭 I’m currently working on some personal projects.
+- 🔭 I’m currently working on some NextJS projects.
 
-- 🌱 I’m currently developing my backend skills with NodeJS.
+- 🌱 I’m currently developing my back-end skills with NodeJS.
 
-- 📫 How to reach me: **aleknovic70@gmail.com**
+- 📫 How to reach me: **thomas@thomascode.com.br**
 
 - ⚡Portfolio: https://thomascode.com.br/
 
