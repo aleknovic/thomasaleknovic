@@ -69,6 +69,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=thomasaleknovic&show_icons=true&theme=tokyonight" alt="mystreak"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomasaleknovic&theme=tokyonight" alt="mystreak"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaleknovic&layout=compact&theme=tokyonight" />
 
 
   
