@@ -19,7 +19,7 @@
   [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomasaleknovic/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thomas_aleknovic/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Taleknovic)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleknovic70@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:thomas@thomascode.com.br)
 
   <h3 align="center">Languages and Tools:</h3>
 
