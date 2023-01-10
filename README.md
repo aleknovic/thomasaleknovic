@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on some NextJS projects.
 
-- 🌱 I’m currently developing my back-end skills.
+- 🌱 I’m currently developing my back-end skills with PHP/Laravel.
 
 - 📫 How to reach me: **thomas@thomascode.com.br**
 
