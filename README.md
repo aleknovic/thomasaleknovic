@@ -62,9 +62,9 @@
   </a>
 </p>
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasaleknovic&show_icons=true&theme=tokyonight&count_private=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thomasaleknovic&theme=tokyonight" alt="mystreak"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaleknovic&layout=compact&theme=tokyonight" />
+ (https://github-readme-stats-opal-phi.vercel.app/api?username=thomasaleknovic&show_icons=true&theme=tokyonight&count_private=true)
+<img src="https://github-readme-stats-opal-phi.vercel.app/api?user=thomasaleknovic&theme=tokyonight" alt="mystreak"/>
+ <img src="https://github-readme-stats-opal-phi.vercel.app/apitop-langs?username=thomasaleknovic&layout=compact&theme=tokyonight" />
 
 
   
