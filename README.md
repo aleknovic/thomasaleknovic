@@ -64,7 +64,7 @@
   
 <img src="https://github-readme-stats-opal-phi.vercel.app/api?username=thomasaleknovic&show_icons=true&theme=tokyonight&count_private=true" alt="Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomasaleknovic&theme=tokyonight" alt="mystreak"/>
- <img src="https://github-readme-stats-opal-phi.vercel.app/apitop-langs?username=thomasaleknovic&layout=compact&theme=tokyonight" />
+ <img src="https://github-readme-stats-opal-phi.vercel.app/api/top-langs?username=thomasaleknovic&layout=compact&theme=tokyonight" />
 
 
   
