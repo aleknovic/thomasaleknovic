@@ -47,10 +47,13 @@
   </a>
   
   <h3 align="center">Frameworks:</h3>
-  
+          
 
    <a href='https://laravel.com/' target="_blank">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" />    
+  </a>
+    <a href='https://expressjs.com/' target="_blank">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  alt="express" width="50" height="50" />    
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
