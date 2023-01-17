@@ -52,7 +52,10 @@
    <a href='https://laravel.com/' target="_blank">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" />    
   </a>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" />
+  <a href='https://laravel.com/' target="_blank">
+        <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" />
+  </a>
+ 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="50" height="50" />
