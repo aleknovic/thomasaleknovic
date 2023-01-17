@@ -53,7 +53,7 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" />    
   </a>
   <a href='https://laravel.com/' target="_blank">
-        <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" />
+       <img height="50" width="50" src="https://unpkg.com/simple-icons@v8/icons/simpleicons.svg" />
   </a>
  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
