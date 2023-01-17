@@ -45,8 +45,7 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a>
-</p>
-
+  
   <h3 align="center">Frameworks:</h3>
   
 
@@ -68,6 +67,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
       alt="tailwind" width="50" height="50" />
   </a>
+</p>
+
+  
   
 <img align="center" src="https://github-readme-stats-opal-phi.vercel.app/api?username=thomasaleknovic&show_icons=true&theme=tokyonight&count_private=true" alt="Stats"/>
 <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomasaleknovic&theme=tokyonight" alt="mystreak"/>
