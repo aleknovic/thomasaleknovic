@@ -33,10 +33,6 @@
   <a href='https://www.php.net/' target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50" />
   </a>
-   <a href='https://laravel.com/' target="_blank">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" />    
-  </a>
-  </a>
    <a href='https://www.python.org/' target="_blank">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" alt="python" width="50" height="50" />    
   </a>
@@ -45,7 +41,18 @@
   </a> 
   <a href="https://nodejs.org/en/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="nodejs" width="50" height="50"/>
-  </a> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
+  </a>
+</p>
+
+  <h3 align="center">Frameworks:</h3>
+  
+
+   <a href='https://laravel.com/' target="_blank">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" />    
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="50" height="50" />
@@ -61,10 +68,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
       alt="tailwind" width="50" height="50" />
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-  </a>
-</p>
   
 <img align="center" src="https://github-readme-stats-opal-phi.vercel.app/api?username=thomasaleknovic&show_icons=true&theme=tokyonight&count_private=true" alt="Stats"/>
 <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomasaleknovic&theme=tokyonight" alt="mystreak"/>
