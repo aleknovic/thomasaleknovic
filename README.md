@@ -34,9 +34,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50" />
   </a>
    <a href='https://www.java.com/' target="_blank">
-      
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"  />
-          
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"  />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
@@ -60,12 +58,10 @@
   <a href='https://spring.io/' target="_blank">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" />    
   </a>
-  
-          
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="50" height="50" />
-  </a
+  </a>
     <a href="https://nextjs.org/" target="_blank"  rel="noreferrer"> 
     <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/nextjs.dark.svg" alt="nextjs" width="50" height="50"/> 
   </a>
