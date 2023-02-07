@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thomas! <img height="20" src="https://emoji.gg/assets/emoji/2843-verified-developer-badge-skyblue.png"></h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-- 🔭 I’m currently working on some NextJS projects.
+- 🔭 I’m currently working on some Java projects.
 
 - 🌱 I’m currently developing my back-end skills with Java/Spring.
 
