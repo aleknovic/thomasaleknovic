@@ -45,6 +45,9 @@
   <a href="https://nodejs.org/en/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="nodejs" width="50" height="50"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  alt="mysql" width="50" height="50"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a>
@@ -57,6 +60,9 @@
   </a>
   <a href='https://spring.io/' target="_blank">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" />    
+  </a>
+    <a href='https://expressjs.com/' target="_blank">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50" />    
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
