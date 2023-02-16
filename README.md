@@ -89,7 +89,7 @@
   
 <img align="center" src="https://github-readme-stats-opal-phi.vercel.app/api?username=thomasaleknovic&show_icons=true&theme=tokyonight&count_private=true" alt="Stats"/>
 <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomasaleknovic&theme=tokyonight" alt="mystreak"/>
- <img align="center" src="https://github-readme-stats-opal-phi.vercel.app/api/top-langs?username=thomasaleknovic&count_private=false&layout=compact&theme=tokyonight&hide=html,scss,blade,css" />
+ <img align="center" src="https://github-readme-stats-opal-phi.vercel.app/api/top-langs?username=thomasaleknovic&count_private=false&layout=compact&theme=tokyonight&hide=html,scss,blade,css,javascript" />
 
 
   
