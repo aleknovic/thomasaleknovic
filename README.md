@@ -66,7 +66,7 @@
       alt="react" width="50" height="50" />
   </a>
     <a href="https://nextjs.org/" target="_blank"  rel="noreferrer"> 
-    <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/nextjs.dark.svg" alt="nextjs" width="50" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/> 
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
