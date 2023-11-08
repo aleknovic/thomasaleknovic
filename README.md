@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on some Java projects.
 
-- 🌱 I’m currently developing my back-end skills with Java/Spring.
+- 🌱 I’m currently developing my back-end skills with Java/Spring and MongoDB Database.
 
 - 📫 How to reach me: **thomas@thomascode.com.br**
 
