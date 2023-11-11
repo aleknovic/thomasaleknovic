@@ -21,23 +21,14 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Taleknovic)
 [![image](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas@thomascode.com.br)
 
-  <h3 align="center">Languages and Tools:</h3>
+  <h3 align="center">Main technologies:</h3>
 
 <p align="center"> 
    <a href='https://www.java.com/' target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"  />
   </a>
-  <a href='https://www.php.net/' target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-  </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
-  </a> 
-  <a href="https://nodejs.org/en/" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="nodejs" width="50" height="50"/>
+  <a href='https://spring.io/' target="_blank">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" />    
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  alt="mysql" width="50" height="50"/>
@@ -49,16 +40,25 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a>
   
-  <h3 align="center">Frameworks:</h3>
-          
-  <a href='https://spring.io/' target="_blank">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" />    
-  </a>
-   <a href='https://laravel.com/' target="_blank">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" />    
+  <h3 align="center">Other Knowledges:</h3>
+ 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+  </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
+  </a> 
+  <a href="https://nodejs.org/en/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="nodejs" width="50" height="50"/>
   </a>
     <a href='https://expressjs.com/' target="_blank">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50" />    
+  </a>
+     <a href='https://www.php.net/' target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50" />
+  </a>
+   <a href='https://laravel.com/' target="_blank">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" />    
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
