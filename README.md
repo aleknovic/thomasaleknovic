@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-- 🔭 I’m currently working on some Java projects.
+- 🔭 I’m currently working on some projects with Java Spring.
 
 - 🌱 I’m currently developing my back-end skills with Java/Spring and MongoDB Database.
 
@@ -53,12 +53,6 @@
   </a>
     <a href='https://expressjs.com/' target="_blank">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50" />    
-  </a>
-     <a href='https://www.php.net/' target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50" />
-  </a>
-   <a href='https://laravel.com/' target="_blank">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" />    
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
