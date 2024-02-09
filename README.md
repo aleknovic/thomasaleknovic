@@ -30,6 +30,9 @@
   <a href='https://spring.io/' target="_blank">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" />    
   </a>
+   <a href="https://www.postgresql.org/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  alt="postgres" width="50" height="50"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  alt="mysql" width="50" height="50"/>
   </a>
@@ -39,7 +42,14 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a>
-  
+   <a href="https://azure.microsoft.com/pt-br/" target="_blank"> 
+    <img src="  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/> 
+  </a>
+
+
+
+
+
   <h3 align="center">Other Knowledges:</h3>
  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
