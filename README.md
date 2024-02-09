@@ -43,7 +43,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a>
    <a href="https://azure.microsoft.com/pt-br/" target="_blank"> 
-    <img src="  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/> 
   </a>
 
 
